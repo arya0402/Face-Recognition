@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(75, 3, 109);
+    color: rgb(228, 138, 247);
+}
+
+.heading {
+    background-color: aquamarine;
+    font-size: 25px;
+    width: 80%;
+}
+
+.object_names, #result_name, #result_name_accuracy {
+    color: rgb(245, 7, 86);
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 300px;
+    height: 230px;
+}
